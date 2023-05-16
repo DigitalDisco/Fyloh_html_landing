@@ -1,3 +1,3 @@
 # Fylo Landing Page
 
-A Fylo example landing page
+A Fylo-like example landing page
